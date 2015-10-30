@@ -17,7 +17,7 @@ https://github.com/learn-co-students/first-lab-001-prework-web
 ```
 Change "learn-co-students" to your username:
 ```
-https://github.com/your-usernam-here/first-lab-001-prework-web
+https://github.com/your-username-here/first-lab-001-prework-web
 ```
 
 ![Fork Button](http://readme-pics.s3.amazonaws.com/fork_button.jpg)
