@@ -12,7 +12,7 @@ Forking a Github repository is just a way to create your own copy of any other G
 
 You can fork any repo by clicking the "Fork" button at the top right any Github repository. 
 
-![](https://github-images.s3.amazonaws.com/enterprise/2.2/assets/images/help/repository/fork_button.jpg)
+![Fork Button](http://readme-pics.s3.amazonaws.com/fork_button.jpg)
 
 [More on forking at the Github docs.](https://help.github.com/enterprise/2.2/user/articles/fork-a-repo/)
 
@@ -22,7 +22,7 @@ Now we want to get our forked copy of the repository on our local machine. This 
 1. Find your forked repo on you Github profile
 2. Click the "Copy to clipboard" button like the one below. This will copy the URL for us to use when we clone.
 
-	![](https://github-images.s3.amazonaws.com/enterprise/2.2/assets/images/help/repository/clone-repo-clone-url-button.png)
+	![Clone Repo Button](http://readme-pics.s3.amazonaws.com/clone-repo-clone-url-button.png)
 
 3. In the terminal, let's run our clone command. It takes the URL we just copied as an argument:
 
