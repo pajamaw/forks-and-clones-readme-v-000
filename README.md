@@ -33,15 +33,18 @@ Now we want to get our forked copy of the repository on our local machine. This 
 	
 	
 ###Add both remotes
-Since we cloned this down from a remote repository, our local copy is already connected that remote. You can check this by running:
+Since we cloned this down from a remote repository, our local copy is already connected to that remote. You can check this by running:
 
 ```bash
 git remote -v
 ```
 
+We can add another remote with the command:
 
-Add both remotes and push/pull to each one showing that you can do each. Add a quick tip on set-url
+```bash
+git remote add name-for-your-remote the-github-url
+```
 
-Go over clone, pretty much DL an existing repo and sets up the remote automatically
+If you run `git remote -v` again you will see that we now see that there are now two remotes that we can push to and pull from.
 
 
