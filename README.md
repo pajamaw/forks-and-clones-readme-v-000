@@ -10,7 +10,15 @@
 ##Forking a Github Repository
 Forking a Github repository is just a way to create your own copy of any other Github repo. We do this all the time while using Learn, so you can use your copy as a sandbox to play around while maintaining a canonical repo where the original lab remains intact. In other words, it creates another remote that allows you to work in your own world without having to mess with our learn-co-student stuff.
 
-You can fork any repo by clicking the "Fork" button at the top right any Github repository. 
+You can fork any repo by clicking the "Fork" button at the top right any Github repository. Learn also makes it very easy by allowing you to click "Fork This Lab" directly from Learn. It's also worthwhile to note that you can go to your fork by switching the learn URL with your Github username. For example:
+
+```
+https://github.com/learn-co-students/first-lab-001-prework-web
+```
+Change "learn-co-students" to your username:
+```
+https://github.com/your-usernam-here/first-lab-001-prework-web
+```
 
 ![Fork Button](http://readme-pics.s3.amazonaws.com/fork_button.jpg)
 
